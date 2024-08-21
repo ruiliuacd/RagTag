@@ -1,4 +1,4 @@
-![logo_text](logo/logo_banner.svg)
+
 
 ## RagTag 
 
@@ -12,7 +12,6 @@ RagTag is a collection of software tools for scaffolding and improving modern ge
   
 RagTag also provides [command line utilities](https://github.com/malonge/RagTag/wiki/Usage) for working with common genome assembly file formats.
 
-![logo_text](logo/descriptive_diagram.svg)
 
 ## Getting Started
 
